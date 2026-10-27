@@ -1,4 +1,4 @@
-# 📊 Análise de Dados: Vendas de Supermercado
+# 📊 Análise de Dados com Pandas
 
 Projeto prático de manipulação e limpeza de dados utilizando Python. O foco atual é a preparação de um dataset de produtos de supermercado para futuras análises.
 
