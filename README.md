@@ -3,9 +3,11 @@
 Projeto prático de manipulação e limpeza de dados utilizando Python. O foco atual é a preparação de um dataset de produtos de supermercado para futuras análises.
 
 > **Status do projeto:** Em desenvolvimento. Nesta etapa inicial, o foco é a exploração, tratamento de valores nulos e padronização de tipos de dados. Em breve, serão adicionados gráficos e extração de insights!
-
 ---
 
+# ⚠️ Para usar e ver de maneira correta, você devera executar 1 e 2 Célula
+
+---
 ## 🧰 Tecnologias utilizadas
 - [Python 3.x](https://www.python.org/)
 - [Pandas](https://pandas.pydata.org/) — Manipulação de dados
