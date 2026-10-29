@@ -6,7 +6,7 @@ Projeto prático de manipulação e limpeza de dados utilizando Python. O foco a
 ---
 
 # ⚠️ Para usar e ver de maneira correta, você devera executar Primeira Célula
-
+# ❗Todos os dados utilizados nesse projeto, são meramente fictícios.
 ---
 ## 🧰 Tecnologias utilizadas
 - [Python 3.x](https://www.python.org/) — Linguagem de Programação
