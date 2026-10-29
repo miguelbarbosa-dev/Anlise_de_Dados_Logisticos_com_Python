@@ -3,10 +3,10 @@ Uma Base de dados fictícia no ramo logística
 para a prática de tratamento e extração de insights
 
 2-Especificação de requisitos (O que deve ou não deve fazer):
-1-Importar FrameWorks(Pandas,SeaBorn...)
-2-Importar ou Extrair os Dados
-3-Tratar e formatar os dados
-4-Mostrar dados
+1-Importar FrameWorks(Pandas,SeaBorn...) ✅
+2-Importar ou Extrair os Dados ✅
+3-Tratar e formatar os dados ✅
+4-Mostrar dados por meio de gráficos
 5-Chegar a 1 ou mais Conclusões
 
 3-Desenvolvimento(Codar):
