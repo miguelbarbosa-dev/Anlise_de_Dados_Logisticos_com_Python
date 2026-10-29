@@ -5,11 +5,11 @@ Projeto prático de manipulação e limpeza de dados utilizando Python. O foco a
 > **Status do projeto:** Em desenvolvimento. Nesta etapa inicial, o foco é a exploração, tratamento de valores nulos e padronização de tipos de dados. Em breve, serão adicionados gráficos e extração de insights!
 ---
 
-# ⚠️ Para usar e ver de maneira correta, você devera executar 1 e 2 Célula
+# ⚠️ Para usar e ver de maneira correta, você devera executar Primeira Célula
 
 ---
 ## 🧰 Tecnologias utilizadas
-- [Python 3.x](https://www.python.org/)
+- [Python 3.x](https://www.python.org/) — Linguagem de Programação
 - [Pandas](https://pandas.pydata.org/) — Manipulação de dados
 - [NumPy](https://numpy.org/) — Operações numéricas
 - [Matplotlib](https://matplotlib.org/) & [Seaborn](https://seaborn.pydata.org/) — Visualização de dados (próximos passos)
