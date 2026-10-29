@@ -21,7 +21,7 @@ Projeto prático de manipulação e limpeza de dados utilizando Python. O foco a
 2. **Tratamento de Nulos:** Identificação e remoção de linhas com dados faltantes (`dropna`).
 3. **Limpeza e Padronização:** 
    - Conversão de datas (`validade`) para o formato `datetime`.
-   - Limpeza da coluna `preco` (remoção de "R$", "preçopendente" e conversão para `Float64`).
+   - Limpeza da coluna `preco` (remoção de "R$", "Textos" e conversão para `Float64`).
    - Limpeza da coluna `estoque_unidades` (remoção do texto "un" e conversão para `Int64`).
 
 ## 🚀 Próximos Passos
